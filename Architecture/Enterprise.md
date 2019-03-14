@@ -1,6 +1,6 @@
 # Jupiter Enterprise Architecture
 
-The enterprise architecture for Jupiter Chain use cases are described below:
+The enterprise architecture for Jupiter Chain use cases are described in the diagram below:
 
 ![Enterprise Architecture Diagram](https://github.com/JupiterChain/data-considerations/blob/master/images/Enterprise.png)
 
