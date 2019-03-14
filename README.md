@@ -1,4 +1,4 @@
-1[Banner](https://github.com/JupiterChain/data-considerations/blob/master/images/Github%20Header.jpg)
+![Banner](https://github.com/JupiterChain/data-considerations/blob/master/images/Github%20Header.jpg)
 
 # Data Considerations for Jupiter Chain
 
