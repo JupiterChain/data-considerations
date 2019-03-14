@@ -4,6 +4,7 @@
 JupiterChain will support 5 primary user roles: data subject, data analyst, data provider, data admin and data consumer. These roles have a distinct way of interacting with JupiterChain according to their specific needs. Contributing to the JupiterChain’s data ecosystem, they will be interacting via different applications and management systems. Below is a description of their responsibilities:
 
 |User Role	|Description	|System|
+| ------------- |:-------------:| -----:|
 |Data Subject	|The people that own data and uses their data to subscribe for services offered by data consumers.	|Consumer Apps|
 |Data Analyst	|The people that perform studies and analysis of data that are used by data consumers for their services which are being sold to data subjects. They need consent from data subjects before they can access data.	|Jupyter Notebook or any analytics platform|
 |Data Provider	|The people that store data of data subjects to JupiterChain.	|Various Management Systems|
