@@ -1,7 +1,12 @@
+# Jupiter Enterprise Architecture
+
+The enterprise architecture for Jupiter Chain use cases are described below:
 
 ![Enterprise Architecture Diagram](https://github.com/JupiterChain/data-considerations/blob/master/images/Enterprise.png)
 
-JupiterChain will support 5 primary user roles: data subject, data analyst, data provider, data admin and data consumer. These roles have a distinct way of interacting with JupiterChain according to their specific needs. Contributing to the JupiterChain’s data ecosystem, they will be interacting via different applications and management systems. Below is a description of their responsibilities:
+JupiterChain will support 5 primary user roles: data subject, data analyst, data provider, data admin and data consumer. These roles have a distinct way of interacting with JupiterChain according to their specific needs. Contributing to the JupiterChain’s data ecosystem, they will be interacting via different applications and management systems. 
+
+Below is a description of their responsibilities:
 
 |User Role	|Description	|System|
 | ------------- |-------------| --------:|
