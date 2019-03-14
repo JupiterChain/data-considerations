@@ -17,6 +17,6 @@ Below is a description of their responsibilities:
 |Data Consumer	|Entities that process data of data subjects in order to offer services. Consent from data subjects is required before they can access their data. |App connected to their own business smart contracts|
 
 User roles are non-exclusive, For example, a data analyst can also be a data consumer.
-Using the enterprise architecture as a guide, we formulate a [data architecture](../master/Architecture/DataModel.md)
+Using the enterprise architecture as a guide, we formulate a [data architecture.](../Architecture/DataModel.md)
 
 [Back to main page](../README.md)
