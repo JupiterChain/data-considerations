@@ -31,9 +31,10 @@ The data model will have the following characteristics:
 3.	Onchain data are stored on user addresses
 4.	Files are stored offchain
 
-*[Data Model Architecture](../master/Architecture/DataModel)
-**[Data Layer Contracts](../master/Architecture/DataContracts)
-*[Enterprise Architecture](../master/Architecture/Enterprise)
-*[Data Attributes](../master/DataAttributes/DataAttributes)
-*[Operations](../master/Operations/Opertations)
+This repo is organised as follows:
+* [Data Model Architecture](../master/Architecture/DataModel)
+** [Data Layer Contracts](../master/Architecture/DataContracts)
+* [Enterprise Architecture](../master/Architecture/Enterprise)
+* [Data Attributes](../master/DataAttributes/DataAttributes)
+* [Operations](../master/Operations/Opertations)
 
