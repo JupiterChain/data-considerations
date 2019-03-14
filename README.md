@@ -1,8 +1,6 @@
 <h1> Data Considerations for Jupiter Chain </h1>
 
-This repo outlines the Jupiter Chain proposal for the storage of data in account-based blockchains for the purpose of data and consent management. 
-
-Jupiter Chain use cases have three considerations (please refer to the whitepaper on https://jupiterchain.tech for more information):
+This repo outlines the Jupiter Chain proposal for the storage of data in account-based blockchains for the purpose of data and consent management. Jupiter Chain use cases have three main considerations (refer to the whitepaper on https://jupiterchain.tech for more information):
 1. Identity and tracking of accounts
 2. Consent and permissioning of access to data
 3. Computation of data assessment algorithms
@@ -30,10 +28,9 @@ The data model will have the following characteristics:
 3.	Onchain data are stored on user addresses
 4.	Files are stored offchain
 
-This repo is organised as follows:
+Based on the Jupiter Chain use case enterprise architecture we propose a data model for the Jupiter Chain and suggest an implementation using smart contracts. The repo is organised as follows:
+* [Enterprise Architecture](../master/Architecture/Enterprise)
 * [Data Model Architecture](../master/Architecture/DataModel)
 ** [Data Layer Contracts](../master/Architecture/DataContracts)
-* [Enterprise Architecture](../master/Architecture/Enterprise)
 * [Data Attributes](../master/DataAttributes/DataAttributes)
-* [Operations](../master/Operations/Opertations)
-
+* [Operations](../master/Operations/Operations)
