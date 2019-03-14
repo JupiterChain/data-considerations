@@ -2,7 +2,7 @@
 
 # Data Considerations for Jupiter Chain
 
-This repo outlines the Jupiter Chain proposal for the storage of data in account-based blockchains for the purpose of data and consent management. Jupiter Chain use cases have three main considerations (refer to the whitepaper on https://jupiterchain.tech for more information):
+This repo outlines the Jupiter Chain proposal for the storage of data in account-based blockchains for the purpose of data and consent management. Jupiter Chain use cases have three main considerations (refer to the whitepaper at https://jupiterchain.tech for more information):
 1. Identity and tracking of accounts
 2. Consent and permissioning of access to data
 3. Computation of data assessment algorithms
