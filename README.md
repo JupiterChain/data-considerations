@@ -1,3 +1,5 @@
+1[Banner](https://github.com/JupiterChain/data-considerations/blob/master/images/Github%20Header.jpg)
+
 # Data Considerations for Jupiter Chain
 
 This repo outlines the Jupiter Chain proposal for the storage of data in account-based blockchains for the purpose of data and consent management. Jupiter Chain use cases have three main considerations (refer to the whitepaper on https://jupiterchain.tech for more information):
