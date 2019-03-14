@@ -1,3 +1,6 @@
+![Banner](https://github.com/JupiterChain/data-considerations/blob/master/images/Github%20Header.jpg)
+https://jupiterchain.tech :rocket: 
+
 # Jupiter Enterprise Architecture
 
 The enterprise architecture for Jupiter Chain use cases are described in the diagram below:
