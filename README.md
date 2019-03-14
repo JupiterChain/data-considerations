@@ -31,8 +31,9 @@ The data model will have the following characteristics:
 3.	Onchain data are stored on user addresses
 4.	Files are stored offchain
 
-<h2>Out of Scope</h2> 
-1.	The data model will only handle data that are in the storage trie of Ethereum Based Blockchain
-2.	The data model will only show managed data that data set contracts have registered
+*[Data Model Architecture](../master/Architecture/DataModel)
+**[Data Layer Contracts](../master/Architecture/DataContracts)
+*[Enterprise Architecture](../master/Architecture/Enterprise)
+*[Data Attributes](../master/DataAttributes/DataAttributes)
+*[Operations](../master/Operations/Opertations)
 
-[I'm a relative reference to a repository file](../master/Architecture/DataModel)
