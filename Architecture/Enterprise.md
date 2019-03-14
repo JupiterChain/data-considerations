@@ -10,10 +10,13 @@ Below is a description of their responsibilities:
 
 |User Role	|Description	|System|
 | ------------- |-------------| --------:|
-|Data Subject	|The people that own data and uses their data to subscribe for services offered by data consumers.	|Consumer Apps|
-|Data Analyst	|The people that perform studies and analysis of data that are used by data consumers for their services which are being sold to data subjects. They need consent from data subjects before they can access data.	|Jupyter Notebook or any analytics platform|
-|Data Provider	|The people that store data of data subjects to JupiterChain.	|Various Management Systems|
-|Data Admin	|The people that manage and maintain the data layer of JupiterChain. They also manage and maintain the entire JupiterChain blockchain.	|JupiterChain Management Systems and Tools|
-|Data Consumer	|The people that process data of data subjects as services. They need consent from data subjects before they can access their data. |App connected to their own business smart contracts|
+|Data Subject	|Individiuals or entities that own data and uses their data to subscribe for services offered by data consumers.	|Consumer Apps|
+|Data Analyst	|Entities that perform studies and analysis of data. Consent from data subjects is required before data access. Data consumers use the analysis results to offer services to data subjects.|Jupyter Notebook or any analytics platform|
+|Data Provider	|Entities that store data of data subjects on JupiterChain.	|Various Management Systems|
+|Data Admin	|Entities that manage and maintain the data layer of JupiterChain. They also manage and maintain the entire JupiterChain blockchain.	|JupiterChain Management Systems and Tools|
+|Data Consumer	|Entities that process data of data subjects in order to offer services. Consent from data subjects is required before they can access their data. |App connected to their own business smart contracts|
+
+User roles are non-exclusive, For example, a data analyst can also be a data consumer.
+Using the enterprise architecture as a guide, we formulate a [data architecture](../master/Architecture/DataModel.md)
 
 [Back to main page](../README.md)
