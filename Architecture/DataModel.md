@@ -7,5 +7,6 @@ The data model consists of 3 layers each with distinct set of responsibilities. 
 
 ![Data Model Architecture Diagram](https://github.com/JupiterChain/data-considerations/blob/master/images/DataModel.png)
 
-[Data Layer]
+[Data Layer](#DataLayer)
+
 ![Data Layer Contracts Diagram](https://github.com/JupiterChain/data-considerations/blob/master/images/DataLayer.png)
