@@ -34,6 +34,6 @@ The data model will have the following characteristics:
 Based on the Jupiter Chain use case enterprise architecture we propose a data model for the Jupiter Chain and suggest an implementation using smart contracts. The repo is organised as follows:
 * [Enterprise Architecture](../master/Architecture/Enterprise.md)
 * [Data Model Architecture](../master/Architecture/DataModel.md)
-    * [Data Layer Contracts](../master/Architecture/DataContracts.md)
+    * [Data Layer Contracts](../master/Architecture/DataModel.md#DataLayer)
 * [Data Attributes](../master/DataAttributes/DataAttributes.md)
 * [Operations](../master/Operations/Operations.md)
