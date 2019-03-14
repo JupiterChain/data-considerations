@@ -1,4 +1,3 @@
-# data-considerations
 <h1> Data Considerations for Jupiter Chain </h1>
 
 This repo outlines the Jupiter Chain proposal for the storage of data in account-based blockchains for the purpose of data and consent management. 
