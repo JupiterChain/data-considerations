@@ -1,2 +1,2 @@
-![banner](../master/images/Enterprise.png)
+
 ![Enterprise Architecture Diagram](https://github.com/JupiterChain/data-considerations/blob/master/images/Enterprise.png)
