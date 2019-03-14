@@ -16,4 +16,4 @@ Below is a description of their responsibilities:
 |Data Admin	|The people that manage and maintain the data layer of JupiterChain. They also manage and maintain the entire JupiterChain blockchain.	|JupiterChain Management Systems and Tools|
 |Data Consumer	|The people that process data of data subjects as services. They need consent from data subjects before they can access their data. |App connected to their own business smart contracts|
 
-[Back to main page](../master/README.md)
+[Back to main page](../README.md)
