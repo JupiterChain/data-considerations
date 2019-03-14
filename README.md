@@ -35,4 +35,4 @@ The data model will have the following characteristics:
 1.	The data model will only handle data that are in the storage trie of Ethereum Based Blockchain
 2.	The data model will only show managed data that data set contracts have registered
 
-[I'm a relative reference to a repository file](../Architecture/DataModel.md)
+[I'm a relative reference to a repository file](../blob/Architecture/DataModel.md)
