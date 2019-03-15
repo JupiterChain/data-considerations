@@ -39,6 +39,6 @@ Below is an example of an Asset Metadata object following the above-described sc
 }
 ```
 
-In the final section of this repo, we consider the [operational requirements.](../Operational/Operational.md)
+In the final section of this repo, we consider the [operational requirements](../Operational/Operational.md) for Jupiter Chain's data model.
 
 [Back to main page](../README.md)
