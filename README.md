@@ -39,6 +39,6 @@ Based on the Jupiter Chain use case enterprise architecture we propose a data mo
 * [Data Attributes](../master/DataAttributes/DataAttributes.md)
 * [Operational Requirements](../master/Operational/Operational.md)
 
-## Contributers
+## Contributors
 * Andrew - @andrewtud
 * Ernie - @ErnieTeo-JEDTrade
