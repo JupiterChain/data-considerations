@@ -2,8 +2,8 @@
 The Jupiter data architecture is intended to encompass general uses cases. We recommend the following base attributes for the Asset Metadata:
 
 
-|Attribute| Type| Required|
-| -------|-----|-----|
+|Attribute |Type |Required |
+| --------- |---------|--------|
 |Name|	String|	Yes|
 |dateCreated|	String|	Yes|
 |createdBy|	String|	Yes|
