@@ -1,4 +1,7 @@
-# Operational Requirements
+![Banner](https://github.com/JupiterChain/data-considerations/blob/master/images/Github%20Header.jpg)
+https://jupiterchain.tech :rocket: 
+
+# Operational Requirements for Jupiter Chain's data model
 
 ## Deployment
 Deployment of Data Set Smart Contracts and Registry Smart Contract can be done by either using truffle or Nethereum (with front-end UI). On code level, deployment will be done by remapping of the new Smart Contract Address and ABI in the Registry Contract for Data Set Smart Contracts. For deployment of new Registry Contract, deployment will be done by remapping the Registry Smart Contract new address and ABI to each registered Data Set Smart Contracts.
