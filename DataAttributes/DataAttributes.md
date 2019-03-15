@@ -3,7 +3,7 @@ The Jupiter data architecture is intended to encompass general uses cases. We re
 
 
 Attribute| Type| Required
--------|-----|-----
+ -------|-----|-----
 Name|	String|	Yes
 dateCreated|	String|	Yes
 createdBy|	String|	Yes
@@ -18,7 +18,8 @@ Value|	String|	No
 
 Below is an example of an Asset Metadata object following the above-described schema:
 
-```{
+```
+{
     "base": {
         "name": "UK Weather information 2011",
         "type": "dataset",
@@ -32,4 +33,5 @@ Below is an example of an Asset Metadata object following the above-described sc
                 "url": "234ab87234acbd09543085340abffh21983ddhiiee982143827423421"
             }, 
     }, 
-}```
+}
+```
