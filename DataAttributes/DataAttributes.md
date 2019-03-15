@@ -3,7 +3,7 @@ The Jupiter data architecture is intended to encompass general uses cases. We re
 
 
 |Attribute |Type |Required |
-| ----------- |---------|--------|
+| :-----------: |---------|--------|
 |Name|	String|	Yes|
 |dateCreated|	String|	Yes|
 |createdBy|	String|	Yes|
