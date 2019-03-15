@@ -20,8 +20,7 @@ Each layer has a distinct set of responsibilities. All business smart contracts 
 
 ![Data Model Architecture Diagram](https://github.com/JupiterChain/data-considerations/blob/master/images/DataModel.png)
 
-## Data Layer Contracts
-(#DataLayer)
+## [Data Layer Contracts](#DataLayer)
 
 We use smart contracts at each data layer to manage the functionalities. These are described in the diagram below:
 
