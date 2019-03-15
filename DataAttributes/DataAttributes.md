@@ -2,19 +2,19 @@
 The Jupiter data architecture is intended to encompass general uses cases. We recommend the following base attributes for the Asset Metadata:
 
 
-Attribute| Type| Required
- -------|-----|-----
-Name|	String|	Yes
-dateCreated|	String|	Yes
-createdBy|	String|	Yes
-dateModified|	String|	No
-modifiedBy|	String|	No
-contentType|	String|	Yes
-File|	String|	No
-Type|	String|	No
-Description|	String|	No
-Encoding|	String|	No
-Value|	String|	No
+|Attribute| Type| Required|
+| -------|-----|-----|
+|Name|	String|	Yes|
+|dateCreated|	String|	Yes|
+|createdBy|	String|	Yes|
+|dateModified|	String|	No|
+|modifiedBy|	String|	No|
+|contentType|	String|	Yes|
+|File|	String|	No|
+|Type|	String|	No|
+|Description|	String|	No|
+|Encoding|	String|	No|
+|Value|	String|	No|
 
 Below is an example of an Asset Metadata object following the above-described schema:
 
