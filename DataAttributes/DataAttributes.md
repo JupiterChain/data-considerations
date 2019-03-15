@@ -2,6 +2,7 @@
 The base attributes are recommended to be included in the Asset Metadata. 
 
 Attribute|	Type|	Required
+-----|-----|-----
 Name|	String|	Yes
 dateCreated|	String|	Yes
 createdBy|	String|	Yes
