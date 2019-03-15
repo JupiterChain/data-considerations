@@ -36,4 +36,4 @@ Based on the Jupiter Chain use case enterprise architecture we propose a data mo
 * [Data Model Architecture](../master/Architecture/DataModel.md)
     * [Data Layer Contracts](../master/Architecture/DataModel.md#DataLayer)
 * [Data Attributes](../master/DataAttributes/DataAttributes.md)
-* [Operational Requirements](../master/Operational/Opertational.md)
+* [Operational Requirements](../master/Operational/Operational.md)
