@@ -1,3 +1,6 @@
+![Banner](https://github.com/JupiterChain/data-considerations/blob/master/images/Github%20Header.jpg)
+https://jupiterchain.tech :rocket: 
+
 # Data Attributes
 The Jupiter data architecture is intended to encompass general uses cases. We recommend the following base attributes for the Asset Metadata:
 
@@ -36,6 +39,6 @@ Below is an example of an Asset Metadata object following the above-described sc
 }
 ```
 
-In the final section of this repo, we consider the [operational requirements](../Operational/Operational.md)
+In the final section of this repo, we consider the [operational requirements.](../Operational/Operational.md)
 
 [Back to main page](../README.md)
