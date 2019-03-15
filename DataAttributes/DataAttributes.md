@@ -1,8 +1,9 @@
 # Data Attributes
-The base attributes are recommended to be included in the Asset Metadata. 
+The Jupiter data architecture is intended to encompass general uses cases. We recommend the following base attributes for the Asset Metadata:
 
-Attribute|	Type|	Required
------|-----|-----
+
+Attribute| Type| Required
+-------|-----|-----
 Name|	String|	Yes
 dateCreated|	String|	Yes
 createdBy|	String|	Yes
@@ -15,7 +16,7 @@ Description|	String|	No
 Encoding|	String|	No
 Value|	String|	No
 
-Here is an example of an Asset Metadata object following the above-described schema:
+Below is an example of an Asset Metadata object following the above-described schema:
 
 ```{
     "base": {
