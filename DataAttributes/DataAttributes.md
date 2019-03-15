@@ -35,3 +35,7 @@ Below is an example of an Asset Metadata object following the above-described sc
     }, 
 }
 ```
+
+In the final section of this repo, we consider the [operational requirements](../Operational/Opertational.md)
+
+[Back to main page](../README.md)
